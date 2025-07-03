@@ -33,5 +33,3 @@ It’s ideal for:
 - Python + NumPy practice
 
 ---
-
-## 📁 File Structure
